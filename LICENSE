@@ -1,0 +1,20 @@
+Copyright (c) 2026 Aurélien Nogent
+Tous droits réservés, sauf ce qui suit.
+
+Le code source de l'Atlas électoral (atlas-electoral.fr) n'est pas publié. Le site, sa mise en page, ses cartes et
+leurs légendes, et son classement des candidatures en blocs sont l'œuvre de l'auteur.
+
+Usage non commercial : autorisé sans accord, à condition de citer « Atlas électoral, atlas-electoral.fr », avec un
+lien vers le site ou vers la vue citée.
+
+Usage commercial, ou par une organisation à titre professionnel (entreprise, collectivité, organisme public, média ou
+toute autre organisation) : soumis à l'accord écrit préalable de l'auteur.
+Demandes : https://hydroforge.fr/contact/
+
+Fichiers de données publiés par le site (atlas-electoral.fr/data/v1) : Licence Ouverte 2.0
+(https://www.etalab.gouv.fr/licence-ouverte-open-licence/), avec la mention de la source. Le fichier
+geo/correctifs_bureaux_odbl.geojson, tiré des « Périmètres des bureaux de vote » de Rennes Métropole, reste sous
+ODbL 1.0 (https://opendatacommons.org/licenses/odbl/1-0/), comme sa source.
+
+Les données électorales et les contours officiels dont l'Atlas est tiré ne sont pas la propriété de l'auteur : ils
+restent soumis aux licences de leurs producteurs (Licence Ouverte 2.0 pour l'essentiel).
