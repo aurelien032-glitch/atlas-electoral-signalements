@@ -1,6 +1,6 @@
 # Atlas électoral : signalements et conditions d'usage
 
-![Atlas électoral : participation par département aux législatives de 2024](partage.png)
+![Atlas électoral : participation aux européennes de 2024 par bureau de vote, à Toulouse](partage.png)
 
 **[atlas-electoral.fr](https://atlas-electoral.fr)** montre les résultats officiels des élections françaises (56 tours de
 scrutin, de 1999 à 2026), de la France entière jusqu'au **bureau de vote** (depuis 2022 ; à la commune avant).
